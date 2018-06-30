@@ -1,0 +1,14 @@
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.deps.json
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.runtimeconfig.json
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.runtimeconfig.dev.json
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.dll
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.pdb
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.csproj.CoreCompileInputs.cache
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.RazorAssemblyInfo.cache
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.RazorAssemblyInfo.cs
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.AssemblyInfoInputs.cache
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.AssemblyInfo.cs
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.RazorTargetAssemblyInfo.cache
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.dll
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.pdb
+/Users/cesar.sanjose/projects/AspNetCoreMiddleware/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.csprojAssemblyReference.cache

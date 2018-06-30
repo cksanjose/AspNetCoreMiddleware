@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8794ad9a-e9e5-41db-829a-38481417439a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspNetCoreMiddleware/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspNetCoreMiddleware/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspNetCoreMiddleware/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspNetCoreMiddleware/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspNetCoreMiddleware/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspNetCoreMiddleware/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/AspNetCoreMiddleware/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/AspNetCoreMiddleware/xs/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/AspNetCoreMiddleware/xs/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/AspNetCoreMiddleware/xs/sqlite3/storage.ide-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/AspNetCoreMiddleware/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/AspNetCoreMiddleware.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/MyMiddleware.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/appSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/AspNetCoreMiddleware.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/AspNetCoreMiddleware.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/AspNetCoreMiddleware.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspNetCoreMiddleware/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+              <folding>
+                <marker date="1530388706153" expanded="false" signature="6:336" ph="..." />
+                <marker date="1530388706153" expanded="true" signature="368:2824" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="395:2822" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="468:683" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1530388706153" expanded="true" signature="750:1006" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="1055:1287" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="1475:2816" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="1522:1599" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="1645:1947" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="2070:2300" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="2133:2283" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="2442:2686" ph="{...}" />
+                <marker date="1530388706153" expanded="true" signature="2503:2669" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appSettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/appSettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyMiddleware.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/MyMiddleware.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+              <folding>
+                <marker date="1530388687457" expanded="true" signature="6:184" ph="..." />
+                <marker date="1530388687457" expanded="true" signature="216:1721" ph="{...}" />
+                <marker date="1530388687457" expanded="true" signature="248:1388" ph="{...}" />
+                <marker date="1530388687457" expanded="true" signature="516:638" ph="{...}" />
+                <marker date="1530388687457" expanded="true" signature="693:1382" ph="{...}" />
+                <marker date="1530388687457" expanded="true" signature="1426:1484" ph="{...}" />
+                <marker date="1530388687457" expanded="true" signature="1536:1718" ph="{...}" />
+                <marker date="1530388687457" expanded="true" signature="1634:1712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AspNetCoreMiddleware/obj/Debug/netcoreapp2.1/AspNetCoreMiddleware.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AspNetCoreMiddleware/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AspNetCoreMiddleware/MyMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AspNetCoreMiddleware/appSettings.json" />
+        <option value="$PROJECT_DIR$/AspNetCoreMiddleware/MyMiddleware.cs" />
+        <option value="$PROJECT_DIR$/AspNetCoreMiddleware/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="41" />
+    <option name="width" value="1348" />
+    <option name="height" value="793" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AspNetCoreMiddleware (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AspNetCoreMiddleware (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AspNetCoreMiddleware" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AspNetCoreMiddleware/bin/Debug/netcoreapp2.1/AspNetCoreMiddleware.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AspNetCoreMiddleware" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AspNetCoreMiddleware/AspNetCoreMiddleware.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8794ad9a-e9e5-41db-829a-38481417439a" name="Default" comment="" />
+      <created>1530379644738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530379644738</updated>
+      <workItem from="1530379647224" duration="185000" />
+      <workItem from="1530379970545" duration="1709000" />
+      <workItem from="1530386670877" duration="1981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3875000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="41" width="1348" height="793" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="49" column="121" selection-start-line="49" selection-start-column="121" selection-end-line="49" selection-end-column="121" />
+          <folding>
+            <marker date="1530388706153" expanded="false" signature="6:336" ph="..." />
+            <marker date="1530388706153" expanded="true" signature="368:2824" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="395:2822" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="468:683" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1530388706153" expanded="true" signature="750:1006" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1055:1287" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1475:2816" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1522:1599" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1645:1947" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2070:2300" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2133:2283" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2442:2686" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2503:2669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <marker date="1530388706153" expanded="false" signature="6:336" ph="..." />
+            <marker date="1530388706153" expanded="true" signature="368:2824" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="395:2822" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="468:683" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1530388706153" expanded="true" signature="750:1006" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1055:1287" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1475:2816" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1522:1599" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1645:1947" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2070:2300" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2133:2283" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2442:2686" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2503:2669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/appSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/MyMiddleware.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <marker date="1530388687457" expanded="true" signature="6:184" ph="..." />
+            <marker date="1530388687457" expanded="true" signature="216:1721" ph="{...}" />
+            <marker date="1530388687457" expanded="true" signature="248:1388" ph="{...}" />
+            <marker date="1530388687457" expanded="true" signature="516:638" ph="{...}" />
+            <marker date="1530388687457" expanded="true" signature="693:1382" ph="{...}" />
+            <marker date="1530388687457" expanded="true" signature="1426:1484" ph="{...}" />
+            <marker date="1530388687457" expanded="true" signature="1536:1718" ph="{...}" />
+            <marker date="1530388687457" expanded="true" signature="1634:1712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AspNetCoreMiddleware/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+          <folding>
+            <marker date="1530388706153" expanded="false" signature="6:336" ph="..." />
+            <marker date="1530388706153" expanded="true" signature="368:2824" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="395:2822" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="468:683" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1530388706153" expanded="true" signature="750:1006" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1055:1287" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1475:2816" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1522:1599" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="1645:1947" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2070:2300" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2133:2283" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2442:2686" ph="{...}" />
+            <marker date="1530388706153" expanded="true" signature="2503:2669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
